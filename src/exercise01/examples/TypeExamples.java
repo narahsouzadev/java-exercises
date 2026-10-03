@@ -1,4 +1,4 @@
-package exercise01;
+package exercise01.examples;
 
 public class TypeExamples {
     public static void main(String[] args) {

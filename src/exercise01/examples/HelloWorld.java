@@ -1,4 +1,4 @@
-package exercise01;
+package exercise01.examples;
 
 public class HelloWorld {
     public static void main(String[] args) {
